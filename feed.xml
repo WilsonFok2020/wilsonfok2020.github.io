@@ -1,83 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-11T13:27:09+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">Global Asset Allocation - Swensen’s Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_swensen/" rel="alternate" type="text/html" title="Global Asset Allocation - Swensen's Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_swensen</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_swensen/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Swensen’s Portfolio.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-26T06:13:41+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">Gold and Silver</title><link href="/finance/2020/04/25/gold_silver/" rel="alternate" type="text/html" title="Gold and Silver" /><published>2020-04-25T00:00:00+08:00</published><updated>2020-04-25T00:00:00+08:00</updated><id>/finance/2020/04/25/gold_silver</id><content type="html" xml:base="/finance/2020/04/25/gold_silver/">&lt;p&gt;Silver and gold are the most widely known precious metals. Apart from silver and gold, precious metals include platinum and palladium. However, what so special about silver and gold is that they have a long history of being used as money, even though they are no longer used as “money” today.&lt;/p&gt;
 
-&lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
-         
-		 &lt;tr&gt;
-            &lt;th&gt;Asset type&lt;/th&gt;
-            &lt;th&gt;Asset class&lt;/th&gt;
-			&lt;th&gt;Proportion&lt;/th&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Large Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Small Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Foreign Developed&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
-         &lt;/tr&gt;
-		&lt;tr&gt;
-            &lt;td&gt;Foreign Emerging&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.1&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Corporate Bonds&lt;/td&gt;
-            &lt;td&gt;Stocks or Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;T-Bills&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;20-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.15&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;TIPS&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.15&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Commodities&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Gold&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;REITs&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
-         &lt;/tr&gt;
-		 
-      &lt;/table&gt;
+&lt;p&gt;This article explores the price movement of silver and gold over the recent decades. Even though there are many ways to invest in precious metals, namely futures, contracts for differences, ETFs, owning miner stocks, or owning physical bullions, I pick the ETF way for simplicity. To track the prices of the two metals, I used ETF: GLD to track gold prices and ETF: SLV to track silver prices. This comes with an implicit assumption that the tracking errors of the ETFs are negligible, and the market close price is representative of the metal prices longterm.&lt;/p&gt;
 
-&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, TLT to represents T-bills, IYR to represent REIT, and TIP to represent inflation-protected bonds.&lt;/p&gt;
+&lt;h3 id=&quot;correlation-between-gold-and-silver&quot;&gt;Correlation between gold and silver&lt;/h3&gt;
 
-&lt;p&gt;I ran the backtest from the 1st of April 2005 to the 3rd of April 2020. The start date is determined by the availability of the VWO.&lt;/p&gt;
+&lt;p&gt;Of late, gold price has risen by significant amount. Let’s review gold and silver price movement of the past decades.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/gold_silver_prices.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At first glance, gold and silver seem to move together or correlated. Let’s assume we buy and hold the metal and let’s calculate the return (in percentage based on the ETF price change) over different time lags(steps or holding periods) including 30, 90, 180, 360 trading days.
+These steps roughly translate to 1 month, 3 months, 6 months and 1 year time periods.&lt;/p&gt;
+
+&lt;p&gt;The correlation is calculated based on Pearson Product Moment Correlation. The windows used for the correlation calculation match the step sizes. Thus, this helps to show how the correlation varies with different holding periods of gold and silver and with different number of observations.&lt;/p&gt;
+
+&lt;p&gt;When we look more closely at the correlations, we can see there are periods when gold and silver largely move in tandem ( values greater than 0.7) and when the two metals move apart in opposite direction (values less than -0.1). With fewer observations (&amp;lt;90), the correlations oscillate significantly and widely. The oscillation reduces with more observations. As the holding period increase, the swing becomes wider also, thereby making the pattern more apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/correlation_step30.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/correlation_step90.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/correlation_step180.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/correlation_step360.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;how-many-times-the-returns-of-gold-and-silver-move-in-one-direction-or-move-in-opposite-direction&quot;&gt;How many times the returns of gold and silver move in one direction or move in opposite direction?&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/proportion_sign.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Answer: very often (shown in red)&lt;/p&gt;
+
+&lt;p&gt;I would like to draw several observations:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gold versus silver ratio cannot hold or must oscillate widely whenever the correlation becomes so unstable&lt;/li&gt;
+  &lt;li&gt;Even though gold and silver are precious metal, they can exhibit opposite behaviors as indicated by the negative correlations.&lt;/li&gt;
+  &lt;li&gt;I think after all silver has a large demand from industrial companies for manufacturing a wide array of products. Gold, on the other hand, has little industrial use (except for jewelry).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;what-is-the-distribution-of-returns-when-gold-and-silver-move-in-the-same-direction-or-in-the-opposite-direction&quot;&gt;What is the distribution of returns when gold and silver move in the same direction or in the opposite direction?&lt;/h4&gt;
+
+&lt;p&gt;Let’s take a look at situation in which gold and silver move in the same direction. Each figure show the distribution of returns (counts on y-axis; return magnitude on x-axis) (gold in green; silver in blue) with its holding period written on top. Their median is shown by a vertical line.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/hist_same_30.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_same_90.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_same_180.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_same_360.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Silver is far more volatile than gold as its distribution is wider.&lt;/p&gt;
+
+&lt;p&gt;Now, we turn our attention to what happens when the returns of the two move in opposite direction. Silver tends to lose money; gold tends to make money.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/hist_opposite_30.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_opposite_90.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_opposite_180.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;
+&lt;img src=&quot;/assets/images/gold_silver/hist_opposite_360.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;backtesting-of-a-9010-gold-versus-silver-portfolio&quot;&gt;Backtesting of a 90:10 gold versus silver portfolio&lt;/h3&gt;
 
 &lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
 
@@ -85,55 +59,55 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;5.424%&lt;/td&gt;
+      &lt;td&gt;6.26%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;120.794%&lt;/td&gt;
+      &lt;td&gt;133.531%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;15.225%&lt;/td&gt;
+      &lt;td&gt;19.246%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;0.42&lt;/td&gt;
+      &lt;td&gt;0.41&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.11&lt;/td&gt;
+      &lt;td&gt;0.13&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Stability&lt;/td&gt;
-      &lt;td&gt;0.85&lt;/td&gt;
+      &lt;td&gt;0.32&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-48.454%&lt;/td&gt;
+      &lt;td&gt;-48.222%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.09&lt;/td&gt;
+      &lt;td&gt;1.08&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;0.59&lt;/td&gt;
+      &lt;td&gt;0.58&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.34&lt;/td&gt;
+      &lt;td&gt;-0.20&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;12.60&lt;/td&gt;
+      &lt;td&gt;6.85&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tail ratio&lt;/td&gt;
-      &lt;td&gt;0.97&lt;/td&gt;
+      &lt;td&gt;1.01&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-1.893%&lt;/td&gt;
+      &lt;td&gt;-2.393%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Gross leverage&lt;/td&gt;
@@ -141,20 +115,20 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.184%&lt;/td&gt;
+      &lt;td&gt;0.095%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;0.00&lt;/td&gt;
+      &lt;td&gt;0.07&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.71&lt;/td&gt;
+      &lt;td&gt;0.06&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -168,120 +142,305 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.17%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.48%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.39%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.13%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.39%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11.98%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.04%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4.64%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.74%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.64%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.73%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.13%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.35%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.65%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.80%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.25%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.93%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.25%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Aug07&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.91%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.44%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.73%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mar08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.14%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.71%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.00%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.49%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4.03%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.19%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.31%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.48%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.39%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.23%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.39%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11.98%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.51%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.50%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.46%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.21%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.94%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.64%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.41%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4.58%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6.75%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.94%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.28%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.28%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.93%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.60%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.47%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.86%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.10%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.86%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.68%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.82%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.26%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.11%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.24%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.34%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.14%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.21%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.42%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.20%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.79%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.54%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.51%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.11%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.76%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-7.10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.64%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;GFC Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-7.75%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7.71%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-8.38%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11.98%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Recovery&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4.64%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.74%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-6.29%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.73%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8.12%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.00%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-9.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5.06%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/swensen_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/gold_90_silver_10_performance_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/swensen_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/gold_90_silver_10_performance_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
+&lt;h4 id=&quot;various-mix-of-gold-and-silver-portfolio&quot;&gt;Various mix of gold and silver portfolio&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Swensen’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Marc Faber’s Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_MarcFaber/" rel="alternate" type="text/html" title="Global Asset Allocation - Marc Faber's Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_MarcFaber</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_MarcFaber/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Marc Faber’s Portfolio.&lt;/p&gt;
+&lt;p&gt;From 2006-05-01 to 2020-04-23, inclusion of silver reduces returns and increases risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/gold_silver/backtesting.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;python-code&quot;&gt;Python code&lt;/h4&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;itertools&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;custom_change_percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    
+
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;cal_change_percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    
+&lt;span class=&quot;c1&quot;&gt;#     print ('from {}'.format(latest))
+#     print ('---%s---' %ticker)
+&lt;/span&gt;    
+    &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cut_from&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rolling&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;apply&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;custom_change_percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dropna&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;
+    
+
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;cut_from&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;mask&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;index&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;where&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;where&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mask&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;series&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;iloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;where&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt;
+    
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;build_change_price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;date0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+        &lt;span class=&quot;n&quot;&gt;ch_per&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cal_change_percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;latest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;price_dict2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ch_per&lt;/span&gt;
+        
+    &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DataFrame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;cal_correlation_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;date0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;enumerate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;itertools&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;combinations&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)):&lt;/span&gt;
+
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;asset_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;asset_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]])&lt;/span&gt;
+        
+        
+        &lt;span class=&quot;c1&quot;&gt;# build price dict, add gaps
+&lt;/span&gt;                
+        &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;build_change_price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;date0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;correlation_dict&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+            &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rolling&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;corr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]])&lt;/span&gt;
+
+
+            &lt;span class=&quot;n&quot;&gt;correlation_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;
+
+        &lt;span class=&quot;n&quot;&gt;key&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;asset_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'_vs_'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;asset_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;correlation_dict&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;plot_correlations&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;period&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;comparison&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;correlation_dict&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;figure&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;comparison&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'_step_'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+
+
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;correlation_dict&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+            
+&lt;span class=&quot;c1&quot;&gt;#             print (value)
+&lt;/span&gt;            &lt;span class=&quot;n&quot;&gt;L&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;L&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;period&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;period&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+
+            &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;grid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;which&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'both'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;legend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'lower left'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+
+&lt;span class=&quot;n&quot;&gt;price_dict2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'GLD'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'SLV'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;windows&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;same&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;opp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;gold_dist&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:{},&lt;/span&gt;
+            &lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:{}}&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;silver_dist&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:{},&lt;/span&gt;
+            &lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:{}}&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    
+    
+    
+    
+    &lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cal_correlation_classes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ticker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;date0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;basket&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'GLD'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SLV'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;gold_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'GLD'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+    &lt;span class=&quot;n&quot;&gt;silver_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SLV'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;gold_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'GLD'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+    &lt;span class=&quot;n&quot;&gt;silver_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dfs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold_vs_silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SLV'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;same&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;opp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;plot_correlations&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;correlation_dict_windows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+	
+	
+&lt;span class=&quot;n&quot;&gt;fig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;subplots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# width = 0.35       # the width of the bars: can also be len(x) sequence
+&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;same_data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;same&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;opp_data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;opp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;same_data&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'r'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;opp_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bottom&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;same_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_ylabel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'percentage of the proportion of the sign of their returns to be same or opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_xlabel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'step'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;legend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ylim&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.75&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+
+&lt;span class=&quot;n&quot;&gt;n_bins&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'same'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'opposite'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;step&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;figure&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;silver_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bins&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n_bins&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'b'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;axvline&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;median&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;silver_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'b'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gold_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bins&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n_bins&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'g'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;axvline&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;median&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gold_dist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'g'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;situation&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'_'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;step&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#         plt.xlim([-1,2])
+&lt;/span&gt;        &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;legend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;fig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ax1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;subplots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'GLD'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'g'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_ylabel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'gold share price'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'g'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tick_params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'y'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;labelcolor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'g'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ax2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ax1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;twinx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ax2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;price_dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SLV'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'silver'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'b'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_ylabel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'silver share price'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'b'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ax2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tick_params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'y'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;labelcolor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'b'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">Silver and gold are the most widely known precious metals. Apart from silver and gold, precious metals include platinum and palladium. However, what so special about silver and gold is that they have a long history of being used as money, even though they are no longer used as “money” today.</summary></entry><entry><title type="html">Global Asset Allocation - All weather</title><link href="/finance/2020/04/04/global_asset_allocation_all_season/" rel="alternate" type="text/html" title="Global Asset Allocation - All weather" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_all_season</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_all_season/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ray Dalio’s all weather portfolio from Tony Robin’s book: Master of the Money Game, 2014.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -293,22 +452,22 @@
          &lt;tr&gt;
             &lt;td&gt;US Large Cap&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.13&lt;/td&gt;
+			&lt;td&gt;0.18&lt;/td&gt;
          &lt;/tr&gt;
          &lt;tr&gt;
             &lt;td&gt;US Small Cap&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.03&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;Foreign Developed&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.08&lt;/td&gt;
+			&lt;td&gt;0.06&lt;/td&gt;
          &lt;/tr&gt;
 		&lt;tr&gt;
             &lt;td&gt;Foreign Emerging&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.04&lt;/td&gt;
+			&lt;td&gt;0.03&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;Corporate Bonds&lt;/td&gt;
@@ -323,12 +482,12 @@
 		 &lt;tr&gt;
             &lt;td&gt;10-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0.15&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;20-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.4&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
@@ -343,24 +502,24 @@
 		 &lt;tr&gt;
             &lt;td&gt;Commodities&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.08&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;Gold&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0.08&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;REITs&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 
       &lt;/table&gt;
 
-&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, AGG to represents aggregated bonds, IYR to represent REIT, and IAU to represent gold.&lt;/p&gt;
+&lt;p&gt;I used SPY to represent US large cap, VB to represent US small cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, BWX to represent 10-year bonds, TLT to represents T-bills, DBC to represent a basket of commodities, and IAU to represent gold.&lt;/p&gt;
 
-&lt;p&gt;I ran the backtest from the 1st of April 2005 to the 3rd of April 2020. The start date is determined by the availability of the VWO.&lt;/p&gt;
+&lt;p&gt;I ran the backtest from the 1st of January 2008 to the 3rd of April 2020. The start date is determined by the availability of the BWX.&lt;/p&gt;
 
 &lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
 
@@ -368,23 +527,23 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;6.213%&lt;/td&gt;
+      &lt;td&gt;5.163%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;146.926%&lt;/td&gt;
+      &lt;td&gt;85.198%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;13.211%&lt;/td&gt;
+      &lt;td&gt;8.878%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;0.52&lt;/td&gt;
+      &lt;td&gt;0.61&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.17&lt;/td&gt;
+      &lt;td&gt;0.22&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Stability&lt;/td&gt;
@@ -392,23 +551,23 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-37.256%&lt;/td&gt;
+      &lt;td&gt;-23.842%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.11&lt;/td&gt;
+      &lt;td&gt;1.12&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;0.73&lt;/td&gt;
+      &lt;td&gt;0.86&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.31&lt;/td&gt;
+      &lt;td&gt;-0.26&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;13.32&lt;/td&gt;
+      &lt;td&gt;9.31&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tail ratio&lt;/td&gt;
@@ -416,28 +575,28 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-1.637%&lt;/td&gt;
+      &lt;td&gt;-1.097%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Gross leverage&lt;/td&gt;
-      &lt;td&gt;0.99&lt;/td&gt;
+      &lt;td&gt;1.04&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.203%&lt;/td&gt;
+      &lt;td&gt;0.21%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;0.02&lt;/td&gt;
+      &lt;td&gt;0.03&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.56&lt;/td&gt;
+      &lt;td&gt;0.25&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -451,120 +610,108 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.11%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.98%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.33%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.29%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.20%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.85%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.77%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.45%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.08%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.85%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.82%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.13%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.33%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.71%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.80%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.31%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aug07&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.56%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.50%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.67%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.78%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mar08&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.44%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.99%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.11%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.98%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.33%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.29%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.20%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.32%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.85%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.15%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.36%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.45%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.23%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.32%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.70%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5.32%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.93%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.17%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.70%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.05%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.49%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.52%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.41%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.51%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.66%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.22%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.99%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.73%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.07%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.88%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.28%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.00%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;GFC Crash&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;-0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8.44%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6.68%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.28%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.83%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Recovery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.70%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.59%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.22%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-6.85%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.39%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.33%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/marcFaber_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/all_season_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/marcFaber_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/all_season_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
+&lt;p&gt;It seems this portfolio is mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Marc Faber’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Ivy’s Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_ivy/" rel="alternate" type="text/html" title="Global Asset Allocation - Ivy's Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_ivy</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_ivy/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ivy’s Portfolio.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ray Dalio’s all weather portfolio from Tony Robin’s book: Master of the Money Game, 2014.</summary></entry><entry><title type="html">Global Asset Allocation - Permanent</title><link href="/finance/2020/04/04/global_asset_allocation_permanent/" rel="alternate" type="text/html" title="Global Asset Allocation - Permanent" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_permanent</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_permanent/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Browne’s Permanent Portfolio.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -576,7 +723,7 @@
          &lt;tr&gt;
             &lt;td&gt;US Large Cap&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
          &lt;tr&gt;
             &lt;td&gt;US Small Cap&lt;/td&gt;
@@ -586,7 +733,7 @@
 		 &lt;tr&gt;
             &lt;td&gt;Foreign Developed&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		&lt;tr&gt;
             &lt;td&gt;Foreign Emerging&lt;/td&gt;
@@ -601,17 +748,17 @@
 		 &lt;tr&gt;
             &lt;td&gt;T-Bills&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;10-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;20-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
@@ -626,24 +773,24 @@
 		 &lt;tr&gt;
             &lt;td&gt;Commodities&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;Gold&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;REITs&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 
       &lt;/table&gt;
 
-&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, AGG to represents aggregated bonds, IYR to represent REIT, and DBC to represent a basket of commodities.&lt;/p&gt;
+&lt;p&gt;I used SPY to represent US large cap, IEF to represent 20 year bond even though it is a baskets of 7-10 years maturity treasury bonds, TLT to represents T-bills and IAU to represent gold&lt;/p&gt;
 
-&lt;p&gt;I ran the backtest from the 1st of March 2006 to the 3rd of April 2020. The start date is determined by the availability of the DBC.&lt;/p&gt;
+&lt;p&gt;I ran the backtest from the 1st of February 2005 to the 3rd of April 2020. The start date is determined by the availability of the IAU.&lt;/p&gt;
 
 &lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
 
@@ -651,76 +798,76 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;2.409%&lt;/td&gt;
+      &lt;td&gt;7.442%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;39.837%&lt;/td&gt;
+      &lt;td&gt;196.88%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;15.972%&lt;/td&gt;
+      &lt;td&gt;7.493%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;0.23&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.05&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Stability&lt;/td&gt;
-      &lt;td&gt;0.70&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-49.305%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.05&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;0.31&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.51&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;12.49&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tail ratio&lt;/td&gt;
-      &lt;td&gt;0.93&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-1.998%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gross leverage&lt;/td&gt;
       &lt;td&gt;1.00&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;Calmar ratio&lt;/td&gt;
+      &lt;td&gt;0.46&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stability&lt;/td&gt;
+      &lt;td&gt;0.96&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Max drawdown&lt;/td&gt;
+      &lt;td&gt;-16.168%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Omega ratio&lt;/td&gt;
+      &lt;td&gt;1.19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sortino ratio&lt;/td&gt;
+      &lt;td&gt;1.44&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Skew&lt;/td&gt;
+      &lt;td&gt;-0.17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kurtosis&lt;/td&gt;
+      &lt;td&gt;4.93&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tail ratio&lt;/td&gt;
+      &lt;td&gt;1.00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daily value at risk&lt;/td&gt;
+      &lt;td&gt;-0.914%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gross leverage&lt;/td&gt;
+      &lt;td&gt;0.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.185%&lt;/td&gt;
+      &lt;td&gt;0.182%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;-0.03&lt;/td&gt;
+      &lt;td&gt;0.06&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.74&lt;/td&gt;
+      &lt;td&gt;0.13&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -734,120 +881,120 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.21%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-6.32%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.65%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.03%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.58%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.12%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.33%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.44%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.27%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.63%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.50%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.20%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.71%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.33%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.80%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.04%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.83%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.08%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.00%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.68%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.90%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Aug07&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.75%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.63%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.03%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.77%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mar08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.13%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.13%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.92%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.97%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.91%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.36%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-6.32%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.65%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.58%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.12%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.46%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.58%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.64%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.19%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.43%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.29%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.41%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4.94%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6.36%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.24%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.19%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.26%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.90%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.12%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.61%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.98%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.88%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.59%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.56%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.44%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.29%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.04%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.61%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.75%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.78%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.81%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.14%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.73%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.59%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.91%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.83%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.58%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;GFC Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8.17%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.76%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.22%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Recovery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.33%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.44%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.88%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.99%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8.76%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5.51%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.45%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.43%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/ivy_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/permanent_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/ivy_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/permanent_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
+&lt;p&gt;During New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio which has a descent portion of fund allocated to stocks could not keep pace with returns of the US stock market. However, I still believe that diversification, to some extent, is still a good strategy during other times over the testing period.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ivy’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - 60/40</title><link href="/finance/2020/04/04/global_asset_allocation_60_40/" rel="alternate" type="text/html" title="Global Asset Allocation - 60/40" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_60_40</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_60_40/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a conventional asset allocation portfolio commonly known as 60/40.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Browne’s Permanent Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - 60/40</title><link href="/finance/2020/04/04/global_asset_allocation_60_40/" rel="alternate" type="text/html" title="Global Asset Allocation - 60/40" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_60_40</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_60_40/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a conventional asset allocation portfolio commonly known as 60/40.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -1002,7 +1149,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1285,7 +1432,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1556,7 +1703,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1671,7 +1818,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 
 &lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study EI-Erian’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Permanent</title><link href="/finance/2020/04/04/global_asset_allocation_permanent/" rel="alternate" type="text/html" title="Global Asset Allocation - Permanent" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_permanent</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_permanent/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Browne’s Permanent Portfolio.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study EI-Erian’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Marc Faber’s Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_MarcFaber/" rel="alternate" type="text/html" title="Global Asset Allocation - Marc Faber's Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_MarcFaber</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_MarcFaber/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Marc Faber’s Portfolio.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -1683,7 +1830,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
          &lt;tr&gt;
             &lt;td&gt;US Large Cap&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0.13&lt;/td&gt;
          &lt;/tr&gt;
          &lt;tr&gt;
             &lt;td&gt;US Small Cap&lt;/td&gt;
@@ -1693,12 +1840,12 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 		 &lt;tr&gt;
             &lt;td&gt;Foreign Developed&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.08&lt;/td&gt;
          &lt;/tr&gt;
 		&lt;tr&gt;
             &lt;td&gt;Foreign Emerging&lt;/td&gt;
             &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.04&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;Corporate Bonds&lt;/td&gt;
@@ -1708,17 +1855,17 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 		 &lt;tr&gt;
             &lt;td&gt;T-Bills&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;10-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;20-year Bonds&lt;/td&gt;
             &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.25&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
          &lt;/tr&gt;
 		 &lt;tr&gt;
             &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
@@ -1743,14 +1890,14 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 		 &lt;tr&gt;
             &lt;td&gt;REITs&lt;/td&gt;
             &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
+			&lt;td&gt;0.25&lt;/td&gt;
          &lt;/tr&gt;
 		 
       &lt;/table&gt;
 
-&lt;p&gt;I used SPY to represent US large cap, IEF to represent 20 year bond even though it is a baskets of 7-10 years maturity treasury bonds, TLT to represents T-bills and IAU to represent gold&lt;/p&gt;
+&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, AGG to represents aggregated bonds, IYR to represent REIT, and IAU to represent gold.&lt;/p&gt;
 
-&lt;p&gt;I ran the backtest from the 1st of February 2005 to the 3rd of April 2020. The start date is determined by the availability of the IAU.&lt;/p&gt;
+&lt;p&gt;I ran the backtest from the 1st of April 2005 to the 3rd of April 2020. The start date is determined by the availability of the VWO.&lt;/p&gt;
 
 &lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
 
@@ -1758,306 +1905,23 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;7.442%&lt;/td&gt;
+      &lt;td&gt;6.213%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;196.88%&lt;/td&gt;
+      &lt;td&gt;146.926%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;7.493%&lt;/td&gt;
+      &lt;td&gt;13.211%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;1.00&lt;/td&gt;
+      &lt;td&gt;0.52&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.46&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Stability&lt;/td&gt;
-      &lt;td&gt;0.96&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-16.168%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.19&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;1.44&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;4.93&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tail ratio&lt;/td&gt;
-      &lt;td&gt;1.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-0.914%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gross leverage&lt;/td&gt;
-      &lt;td&gt;0.99&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.182%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;0.06&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.13&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Stress Events&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;mean&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;min&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;max&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.58%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.12%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.27%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.63%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.50%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.33%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.80%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.00%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.68%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.90%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aug07&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.77%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mar08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.97%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.91%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.58%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.12%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.19%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.43%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.29%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.24%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.19%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.61%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.98%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.56%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.44%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.04%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.61%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.75%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.14%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.73%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.03%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.83%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.58%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;GFC Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.76%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.22%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Recovery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.88%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.99%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.45%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.43%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/permanent_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/permanent_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio which has a descent portion of fund allocated to stocks could not keep pace with returns of the US stock market. However, I still believe that diversification, to some extent, is still a good strategy during other times over the testing period.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Browne’s Permanent Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - All weather</title><link href="/finance/2020/04/04/global_asset_allocation_all_season/" rel="alternate" type="text/html" title="Global Asset Allocation - All weather" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_all_season</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_all_season/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ray Dalio’s all weather portfolio from Tony Robin’s book: Master of the Money Game, 2014.&lt;/p&gt;
-
-&lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
-         
-		 &lt;tr&gt;
-            &lt;th&gt;Asset type&lt;/th&gt;
-            &lt;th&gt;Asset class&lt;/th&gt;
-			&lt;th&gt;Proportion&lt;/th&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Large Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.18&lt;/td&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Small Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.03&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Foreign Developed&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.06&lt;/td&gt;
-         &lt;/tr&gt;
-		&lt;tr&gt;
-            &lt;td&gt;Foreign Emerging&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.03&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Corporate Bonds&lt;/td&gt;
-            &lt;td&gt;Stocks or Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;T-Bills&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.15&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;20-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.4&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;TIPS&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Commodities&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.08&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Gold&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.08&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;REITs&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 
-      &lt;/table&gt;
-
-&lt;p&gt;I used SPY to represent US large cap, VB to represent US small cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, BWX to represent 10-year bonds, TLT to represents T-bills, DBC to represent a basket of commodities, and IAU to represent gold.&lt;/p&gt;
-
-&lt;p&gt;I ran the backtest from the 1st of January 2008 to the 3rd of April 2020. The start date is determined by the availability of the BWX.&lt;/p&gt;
-
-&lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;5.163%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;85.198%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;8.878%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;0.61&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.22&lt;/td&gt;
+      &lt;td&gt;0.17&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Stability&lt;/td&gt;
@@ -2065,23 +1929,23 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-23.842%&lt;/td&gt;
+      &lt;td&gt;-37.256%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.12&lt;/td&gt;
+      &lt;td&gt;1.11&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;0.86&lt;/td&gt;
+      &lt;td&gt;0.73&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.26&lt;/td&gt;
+      &lt;td&gt;-0.31&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;9.31&lt;/td&gt;
+      &lt;td&gt;13.32&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tail ratio&lt;/td&gt;
@@ -2089,28 +1953,28 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-1.097%&lt;/td&gt;
+      &lt;td&gt;-1.637%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Gross leverage&lt;/td&gt;
-      &lt;td&gt;1.04&lt;/td&gt;
+      &lt;td&gt;0.99&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.21%&lt;/td&gt;
+      &lt;td&gt;0.203%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;0.03&lt;/td&gt;
+      &lt;td&gt;0.02&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.25&lt;/td&gt;
+      &lt;td&gt;0.56&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -2124,108 +1988,403 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.29%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.11%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.98%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.33%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.45%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.08%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.77%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.13%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.33%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.71%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.82%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.67%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.78%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.31%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aug07&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.56%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.50%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mar08&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.99%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.11%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.03%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.44%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.29%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.98%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.33%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.36%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.45%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.23%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.32%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.15%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.93%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.17%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.32%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.70%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5.32%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.70%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.80%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.41%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.51%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.49%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.52%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.99%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.73%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.66%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.22%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.10%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.28%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.00%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.12%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.07%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.88%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.20%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;GFC Crash&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;-0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.28%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.83%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-8.44%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6.68%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Recovery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.59%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.22%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-3.70%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.20%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.39%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.33%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-6.85%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5.20%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/all_season_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/marcFaber_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/all_season_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/marcFaber_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems this portfolio is mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
+&lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Ray Dalio’s all weather portfolio from Tony Robin’s book: Master of the Money Game, 2014.</summary></entry><entry><title type="html">Global Asset Allocation - Buffett’s portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_buffett/" rel="alternate" type="text/html" title="Global Asset Allocation - Buffett's portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_buffett</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_buffett/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a Buffett’s portfolio for his trust.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Marc Faber’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Swensen’s Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_swensen/" rel="alternate" type="text/html" title="Global Asset Allocation - Swensen's Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_swensen</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_swensen/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Swensen’s Portfolio.&lt;/p&gt;
+
+&lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
+         
+		 &lt;tr&gt;
+            &lt;th&gt;Asset type&lt;/th&gt;
+            &lt;th&gt;Asset class&lt;/th&gt;
+			&lt;th&gt;Proportion&lt;/th&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
+            &lt;td&gt;US Large Cap&lt;/td&gt;
+            &lt;td&gt;Stocks&lt;/td&gt;
+			&lt;td&gt;0.2&lt;/td&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
+            &lt;td&gt;US Small Cap&lt;/td&gt;
+            &lt;td&gt;Stocks&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;Foreign Developed&lt;/td&gt;
+            &lt;td&gt;Stocks&lt;/td&gt;
+			&lt;td&gt;0.2&lt;/td&gt;
+         &lt;/tr&gt;
+		&lt;tr&gt;
+            &lt;td&gt;Foreign Emerging&lt;/td&gt;
+            &lt;td&gt;Stocks&lt;/td&gt;
+			&lt;td&gt;0.1&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;Corporate Bonds&lt;/td&gt;
+            &lt;td&gt;Stocks or Bonds&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;T-Bills&lt;/td&gt;
+            &lt;td&gt;Bonds&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;10-year Bonds&lt;/td&gt;
+            &lt;td&gt;Bonds&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;20-year Bonds&lt;/td&gt;
+            &lt;td&gt;Bonds&lt;/td&gt;
+			&lt;td&gt;0.15&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
+            &lt;td&gt;Bonds&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;TIPS&lt;/td&gt;
+            &lt;td&gt;Real Assets&lt;/td&gt;
+			&lt;td&gt;0.15&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;Commodities&lt;/td&gt;
+            &lt;td&gt;Real Assets&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;Gold&lt;/td&gt;
+            &lt;td&gt;Real Assets&lt;/td&gt;
+			&lt;td&gt;0&lt;/td&gt;
+         &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;REITs&lt;/td&gt;
+            &lt;td&gt;Real Assets&lt;/td&gt;
+			&lt;td&gt;0.2&lt;/td&gt;
+         &lt;/tr&gt;
+		 
+      &lt;/table&gt;
+
+&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, TLT to represents T-bills, IYR to represent REIT, and TIP to represent inflation-protected bonds.&lt;/p&gt;
+
+&lt;p&gt;I ran the backtest from the 1st of April 2005 to the 3rd of April 2020. The start date is determined by the availability of the VWO.&lt;/p&gt;
+
+&lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Annual return&lt;/td&gt;
+      &lt;td&gt;5.424%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cumulative returns&lt;/td&gt;
+      &lt;td&gt;120.794%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Annual volatility&lt;/td&gt;
+      &lt;td&gt;15.225%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sharpe ratio&lt;/td&gt;
+      &lt;td&gt;0.42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Calmar ratio&lt;/td&gt;
+      &lt;td&gt;0.11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stability&lt;/td&gt;
+      &lt;td&gt;0.85&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Max drawdown&lt;/td&gt;
+      &lt;td&gt;-48.454%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Omega ratio&lt;/td&gt;
+      &lt;td&gt;1.09&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sortino ratio&lt;/td&gt;
+      &lt;td&gt;0.59&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Skew&lt;/td&gt;
+      &lt;td&gt;-0.34&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kurtosis&lt;/td&gt;
+      &lt;td&gt;12.60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tail ratio&lt;/td&gt;
+      &lt;td&gt;0.97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daily value at risk&lt;/td&gt;
+      &lt;td&gt;-1.893%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gross leverage&lt;/td&gt;
+      &lt;td&gt;1.00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daily turnover&lt;/td&gt;
+      &lt;td&gt;0.184%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alpha&lt;/td&gt;
+      &lt;td&gt;0.00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Beta&lt;/td&gt;
+      &lt;td&gt;0.71&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Stress Events&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;mean&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;min&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;max&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lehman&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.17%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.48%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.39%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.04%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4.64%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.74%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fukushima&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.18%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.13%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EZB IR Event&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.03%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.25%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aug07&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.91%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mar08&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.14%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.71%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.00%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sept08&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.31%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.48%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.39%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009Q1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.51%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5.50%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.46%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009Q2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.41%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4.58%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6.75%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flash Crash&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.06%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.28%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.93%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Apr14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.86%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.68%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.11%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-1.24%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.34%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fall2015&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.79%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.54%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Low Volatility Bull Market&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.05%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2.76%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.18%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GFC Crash&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-7.75%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7.71%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Recovery&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.07%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4.64%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.74%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;New Normal&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-8.12%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5.07%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/swensen_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/swensen_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems this portfolio is not mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Swensen’s Portfolio.</summary></entry><entry><title type="html">Global Asset Allocation - Buffett’s portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_buffett/" rel="alternate" type="text/html" title="Global Asset Allocation - Buffett's portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_buffett</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_buffett/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a Buffett’s portfolio for his trust.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -2381,7 +2540,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -2514,7 +2673,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 
 &lt;p&gt;It seems that 10% in T-Bills is not benefiting the overall portfolio performance. I am guessing the 10% may act as an emergency fund for a family during a rainy day.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a Buffett’s portfolio for his trust.</summary></entry><entry><title type="html">Global Asset Allocation - Global Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_global/" rel="alternate" type="text/html" title="Global Asset Allocation - Global Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_global</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_global/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study xxx’s Global Portfolio.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study a Buffett’s portfolio for his trust.</summary></entry><entry><title type="html">Global Asset Allocation - Global Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_global/" rel="alternate" type="text/html" title="Global Asset Allocation - Global Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_global</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_global/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Meb Faber’s Global Portfolio.&lt;/p&gt;
 
 &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
          
@@ -2670,7 +2829,7 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The portfolio’s returns during different time periods or events are summaried below.&lt;/p&gt;
+&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -2785,4 +2944,4 @@ I ran the backtest from the 1st of October 2003 to the 3rd of April 2020. The st
 
 &lt;p&gt;It seems this portfolio is mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study xxx’s Global Portfolio.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Meb Faber’s Global Portfolio.</summary></entry></feed>
