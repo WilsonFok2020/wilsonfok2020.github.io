@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-18T07:45:35+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">Classification Tasks - Improving the effectiveness of cross entropy loss by adding margin?</title><link href="/deep_learning/2020/10/17/Classification-Tasks/" rel="alternate" type="text/html" title="Classification Tasks - Improving the effectiveness of cross entropy loss by adding margin?" /><published>2020-10-17T00:00:00+08:00</published><updated>2020-10-17T00:00:00+08:00</updated><id>/deep_learning/2020/10/17/Classification%20Tasks</id><content type="html" xml:base="/deep_learning/2020/10/17/Classification-Tasks/">&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-30T21:04:48+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">How to make blog post images transparent</title><link href="/others/2020/10/29/add_alpha_images/" rel="alternate" type="text/html" title="How to make blog post images transparent" /><published>2020-10-29T00:00:00+08:00</published><updated>2020-10-29T00:00:00+08:00</updated><id>/others/2020/10/29/add_alpha_images</id><content type="html" xml:base="/others/2020/10/29/add_alpha_images/">&lt;p&gt;Very often, we include images in our blog post to convey important messages, illustrate ideas, or simply to make the blog post more interesting. After all, the old adage says that a picture is worth a thousand words. However, what happens when the background color of the image does not blend in well with the color theme of your choice?&lt;/p&gt;
+
+&lt;p&gt;The answer is this discrepancy makes the article look inconsistent. The good news is that there is a quick fix.&lt;/p&gt;
+
+&lt;h3 id=&quot;image-processing&quot;&gt;Image processing&lt;/h3&gt;
+
+&lt;p&gt;The fix is to use Python to convert (pixel by pixel) the background colour to transparent.&lt;/p&gt;
+
+&lt;p&gt;I use an image processing package called Pillow (https://python-pillow.org/) to handle different images. 
+It detects the background pixel by checking if the Red, the Green and the Blue channels are 255. Then it sets the detected pixel to be (255,255,255, 0), where 0 means 100% transparency. Of course, it is also possible to set it to any other color that goes well with the theme of the site. Personally, getting rid of the background gives me less headache.&lt;/p&gt;
+
+&lt;p&gt;The rest of the script goes through the entire directory in which I store the images of the site and recreate the exact tree structure of the directories to store these newly converted images.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;PIL&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Image&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;create_directories&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    
+    
+    &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):]&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;# handle both windows or Unix systems
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;k&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;enumerate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;k&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;k&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;num_subfolders&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;save_to&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sub&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;enumerate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num_subfolders&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num_subfolders&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;start_index&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sub&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;end_index&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            
+       
+        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;start_index&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sub&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;end_index&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+            
+        &lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start_index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;end_index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+            
+            
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mkdir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dirs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;files&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;walk&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_from&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;files&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endswith&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'.png'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'image file: '&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'image path : '&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            
+            &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            
+            &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+            
+            &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+                    &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getpixel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+                    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+                        &lt;span class=&quot;c1&quot;&gt;# 0 = 100% transparent
+&lt;/span&gt;                        &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;putpixel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+                        
+            &lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;create_directories&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'current path : '&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;          
+            
+                        
+            &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;save&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;My other blog posts contain many examples of images (after conversion) with a transparent background.
+Please feel free to check them out on this site.&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="Others" /><summary type="html">Very often, we include images in our blog post to convey important messages, illustrate ideas, or simply to make the blog post more interesting. After all, the old adage says that a picture is worth a thousand words. However, what happens when the background color of the image does not blend in well with the color theme of your choice?</summary></entry><entry><title type="html">Classification Tasks - Improving the effectiveness of cross entropy loss by adding margin?</title><link href="/deep_learning/2020/10/17/Classification-Tasks/" rel="alternate" type="text/html" title="Classification Tasks - Improving the effectiveness of cross entropy loss by adding margin?" /><published>2020-10-17T00:00:00+08:00</published><updated>2020-10-17T00:00:00+08:00</updated><id>/deep_learning/2020/10/17/Classification%20Tasks</id><content type="html" xml:base="/deep_learning/2020/10/17/Classification-Tasks/">&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
 
 &lt;p&gt;Grouping similar samples and separating dissimilar samples are an integral challenge for image recognition such as face recognition and for information retrieval tasks such as image query and retrieval.&lt;/p&gt;
 
@@ -2623,275 +2697,4 @@ These steps roughly translate to 1 month, 3 months, 6 months and 1 year time per
 
 
 &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Wilson Fok</name></author><category term="Finance" /><summary type="html">Silver and gold are the most widely known precious metals. Apart from silver and gold, precious metals include platinum and palladium. However, what so special about silver and gold is that they have a long history of being used as money, even though they are no longer used as “money” today.</summary></entry><entry><title type="html">Global Asset Allocation - Global Portfolio</title><link href="/finance/2020/04/04/global_asset_allocation_global/" rel="alternate" type="text/html" title="Global Asset Allocation - Global Portfolio" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>/finance/2020/04/04/global_asset_allocation_global</id><content type="html" xml:base="/finance/2020/04/04/global_asset_allocation_global/">&lt;p&gt;In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Meb Faber’s Global Portfolio.&lt;/p&gt;
-
-&lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot;&gt;
-         
-		 &lt;tr&gt;
-            &lt;th&gt;Asset type&lt;/th&gt;
-            &lt;th&gt;Asset class&lt;/th&gt;
-			&lt;th&gt;Proportion&lt;/th&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Large Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.2&lt;/td&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-            &lt;td&gt;US Small Cap&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Foreign Developed&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.15&lt;/td&gt;
-         &lt;/tr&gt;
-		&lt;tr&gt;
-            &lt;td&gt;Foreign Emerging&lt;/td&gt;
-            &lt;td&gt;Stocks&lt;/td&gt;
-			&lt;td&gt;0.05&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Corporate Bonds&lt;/td&gt;
-            &lt;td&gt;Stocks or Bonds&lt;/td&gt;
-			&lt;td&gt;0.22&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;T-Bills&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;20-year Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.15&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;10-year Foreign Bonds&lt;/td&gt;
-            &lt;td&gt;Bonds&lt;/td&gt;
-			&lt;td&gt;0.16&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;TIPS&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.02&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Commodities&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;Gold&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0&lt;/td&gt;
-         &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;REITs&lt;/td&gt;
-            &lt;td&gt;Real Assets&lt;/td&gt;
-			&lt;td&gt;0.05&lt;/td&gt;
-         &lt;/tr&gt;
-		 
-      &lt;/table&gt;
-
-&lt;p&gt;I used SPY to represent US large cap, VGK to represent equities in foreign developed markets, VWO to represent foreign emerging markets, LQD to represent investment grade corporate bond, TLT to represents T-bills, IYR to represent REIT, TIP to represent inflation-protected bonds, and EMB to represent foreign 10-year bonds&lt;/p&gt;
-
-&lt;p&gt;I ran the backtest from the 1st of January 2008 to the 3rd of April 2020. The start date is determined by the availability of the EMB.&lt;/p&gt;
-
-&lt;p&gt;Quantopian algorithm backtesting platform has provided a summary of the performance.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual return&lt;/td&gt;
-      &lt;td&gt;5.012%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Cumulative returns&lt;/td&gt;
-      &lt;td&gt;81.981%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual volatility&lt;/td&gt;
-      &lt;td&gt;10.901%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sharpe ratio&lt;/td&gt;
-      &lt;td&gt;0.50&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Calmar ratio&lt;/td&gt;
-      &lt;td&gt;0.15&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Stability&lt;/td&gt;
-      &lt;td&gt;0.94&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Max drawdown&lt;/td&gt;
-      &lt;td&gt;-32.78%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Omega ratio&lt;/td&gt;
-      &lt;td&gt;1.11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sortino ratio&lt;/td&gt;
-      &lt;td&gt;0.69&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Skew&lt;/td&gt;
-      &lt;td&gt;-0.75&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kurtosis&lt;/td&gt;
-      &lt;td&gt;14.77&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tail ratio&lt;/td&gt;
-      &lt;td&gt;0.96&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daily value at risk&lt;/td&gt;
-      &lt;td&gt;-1.352%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gross leverage&lt;/td&gt;
-      &lt;td&gt;0.99&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daily turnover&lt;/td&gt;
-      &lt;td&gt;0.181%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alpha&lt;/td&gt;
-      &lt;td&gt;0.02&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Beta&lt;/td&gt;
-      &lt;td&gt;0.46&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The portfolio’s returns during different time periods or events are summarized below.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Stress Events&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;mean&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;min&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;max&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lehman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.22%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.03%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;US downgrade/European Debt Crisis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.37%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.97%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fukushima&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.11%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.77%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.78%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;EZB IR Event&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.01%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.53%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.84%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mar08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.96%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.72%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sept08&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.33%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.22%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.03%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009Q1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.40%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.83%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.21%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009Q2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.29%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.66%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3.79%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Flash Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2.38%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.94%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Apr14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.53%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.52%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Oct14&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.09%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.97%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fall2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.13%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-1.96%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.16%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;GFC Crash&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-0.08%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5.22%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5.67%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Recovery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.06%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-3.37%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2.97%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;New Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0.02%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-6.18%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.36%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/global_snapshot.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Below shows an overall summary of the performance over the entire period.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/portfolios/global_summary.png&quot; alt=&quot;Picture description&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It seems this portfolio is mitigating or reducing the loss of capital most of the time during the test periods. It also seems its returns are less during New Normal compared with the benchmark. However, during New Normal, we have seen a very strong and long bull market, shown by the high rate of returns of the US equities. This portfolio has only a relatively small portion of fund allocated to US stocks.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/finance/2020/03/21/Asset_allocation_portfolio_backtesting_python_script/&quot;&gt;Resources used: Asset_allocation_portfolio_backtesting_python_script&lt;/a&gt;&lt;/p&gt;</content><author><name>Wilson Fok</name></author><category term="Finance" /><summary type="html">In this series, I am going to explore several asset allocation portfolio. Particularly, I am going to study Meb Faber’s Global Portfolio.</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Wilson Fok</name></author><category term="Finance" /><summary type="html">Silver and gold are the most widely known precious metals. Apart from silver and gold, precious metals include platinum and palladium. However, what so special about silver and gold is that they have a long history of being used as money, even though they are no longer used as “money” today.</summary></entry></feed>
