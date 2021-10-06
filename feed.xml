@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-06T08:50:24+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">World equity markets valuation</title><link href="/finance/2021/10/05/world_equities_market_valuation/" rel="alternate" type="text/html" title="World equity markets valuation" /><published>2021-10-05T00:00:00+08:00</published><updated>2021-10-05T00:00:00+08:00</updated><id>/finance/2021/10/05/world_equities_market_valuation</id><content type="html" xml:base="/finance/2021/10/05/world_equities_market_valuation/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-06T10:04:51+08:00</updated><id>/feed.xml</id><title type="html">Wilson Fok</title><subtitle>Hello, My name is Wilson Fok. I love to extract useful insights and knowledge from big data. I also like to make new friends and connections. Let's connect! </subtitle><author><name>Wilson Fok</name></author><entry><title type="html">World equity markets valuation</title><link href="/finance/2021/10/05/world_equities_market_valuation/" rel="alternate" type="text/html" title="World equity markets valuation" /><published>2021-10-05T00:00:00+08:00</published><updated>2021-10-05T00:00:00+08:00</updated><id>/finance/2021/10/05/world_equities_market_valuation</id><content type="html" xml:base="/finance/2021/10/05/world_equities_market_valuation/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Geopandas is a python packages for GIS (geographic information system). The package helps perform sophisticated spatial temporal analysis. Very often, we visual the findings on maps. A simple application I am going to show you here is to visualize the global equity market valuations, yield, and structure. Despite its simplicity, the maps show interesting emerging patterns across Europe, America, Asia, and Africa.&lt;/p&gt;
 
 &lt;p&gt;Up-to-date market information can be expensive. I am not aware of any free database that provides information on individual company’s earnings, share prices, book value across the global equity markets. This is a daunting task for an amateur who has no access to paid institutional or research databases. I have found a way to partially get around the need for subscription. The idea is to study ETF factsheet or prospectus carefully to extract information on equity markets. 
@@ -16,13 +16,13 @@ ETF (exchange traded fund) comes in many shapes and forms. The ones I pick are p
 The structure of the data is best shown by the screenshots of the website table.&lt;/p&gt;
 
 &lt;p&gt;This is an ETF for Finland
-&lt;img src=&quot;/assets/images/world/title.jpg&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/world/title.JPG&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The fund’s characteristics, which is used to infer the country’s equity market, are listed in the table below.
-&lt;img src=&quot;/assets/images/world/characteristics.jpg&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/world/characteristics.JPG&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The sectors or industries these companies belong:
-&lt;img src=&quot;/assets/images/world/sectors.jpg&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/world/sectors.JPG&quot; alt=&quot;Picture description&quot; width=&quot;1024px&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;data-visualization&quot;&gt;Data Visualization&lt;/h4&gt;
 
