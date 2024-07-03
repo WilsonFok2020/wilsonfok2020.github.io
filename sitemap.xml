@@ -125,8 +125,12 @@
 <lastmod>2023-01-27T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/others/2023/08/31/algorithms_to_live_by/</loc>
+<loc>/reading/2023/08/31/algorithms_to_live_by/</loc>
 <lastmod>2023-08-31T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/reading/2024/05/26/High_output_management/</loc>
+<lastmod>2024-05-26T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/404/</loc>
@@ -142,6 +146,9 @@
 </url>
 <url>
 <loc>/blog/categories/Others</loc>
+</url>
+<url>
+<loc>/blog/categories/Reading</loc>
 </url>
 <url>
 <loc>/about/</loc>
@@ -181,6 +188,9 @@
 </url>
 <url>
 <loc>/styleguide/</loc>
+</url>
+<url>
+<loc>/blog/categories/Toastmaster</loc>
 </url>
 <url>
 <loc>/assets/bower_components/font-awesome/CHANGELOG/</loc>
@@ -286,6 +296,9 @@
 </url>
 <url>
 <loc>/blog/page/8/</loc>
+</url>
+<url>
+<loc>/blog/page/9/</loc>
 </url>
 <url>
 <loc>/assets/bower_components/bootstrap/js/tests/</loc>

@@ -111,6 +111,8 @@ header { background-color: var(--main-background-color); box-shadow: 0px; height
 
 .author-profile-img { width: 50px; height: 50px; }
 
+.post-profile-img { width: 350px; }
+
 .blog-post { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); width: 45%; height: auto; margin: 20px !important; }
 
 .blog-post:hover { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); }
