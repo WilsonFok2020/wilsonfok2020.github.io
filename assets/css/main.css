@@ -95,7 +95,7 @@ header { background-color: var(--main-background-color); box-shadow: 0px; height
   #topNav { padding-left: 100px; padding-right: 100px; } }
 #profile-card { text-align: center; }
 #profile-card #author-img { text-align: center; }
-#profile-card .profile-img { width: 150px; height: 150px; margin-left: 20px; }
+#profile-card .profile-img { width: 150px; height: auto; margin-left: 20px; }
 #profile-card .profile-name { margin-top: 20px; }
 #profile-card .profile-bio, #profile-card .profile-links { margin-top: 5px; }
 #profile-card .social-link { color: var(--social-link-color); font-size: 15px; padding: 5px; margin: 2px; text-decoration: none !important; }
@@ -109,7 +109,7 @@ header { background-color: var(--main-background-color); box-shadow: 0px; height
 
 .company-logo { width: 100px; }
 
-.author-profile-img { width: 50px; height: 50px; }
+.author-profile-img { width: 50px; height: auto; }
 
 .post-profile-img { width: 350px; }
 
@@ -373,3 +373,82 @@ footer { width: 100%; height: 70px; text-align: center; padding: 20px; backgroun
 .highlight .il { color: #009999; }
 
 /* Literal.Number.Integer.Long */
+/* Slideshow container */
+.slideshow-container { max-width: 1000px; position: relative; margin: auto; }
+
+/* Hide the images by default */
+.mySlides { display: none; }
+
+/* Next & previous buttons */
+.sliderprev, .slidernext { cursor: pointer; position: absolute; top: 50%; width: auto; margin-top: -22px; padding: 16px; color: white; font-weight: bold; font-size: 18px; transition: 0.6s ease; border-radius: 0px 30px 30px 0px; user-select: none; }
+
+/* Position the "next button" to the right */
+.slidernext { right: 0; border-radius: 3px 0 0 3px; }
+
+/* On hover, add a black background color with a little bit see-through */
+.sliderprev:hover, .slidernext:hover { background-color: rgba(0, 0, 0, 0.8); }
+
+/* Caption text */
+.text { color: #100c08; font-size: 15px; padding: 8px 12px; position: absolute; bottom: 0; width: 100%; text-align: right; }
+
+/* Number text (1/3 etc) */
+.numbertext { color: #f2f2f2; font-size: 12px; padding: 8px 12px; position: absolute; top: 0; }
+
+/* The dots/bullets/indicators */
+.sliderdot { cursor: pointer; height: 15px; width: 15px; margin: 0 2px; background-color: #bbb; border-radius: 50%; display: inline-block; transition: background-color 0.6s ease; }
+
+.slideractive, .sliderdot:hover { background-color: #717171; }
+
+/* Share Bar */
+#share-bar { font-size: 16px; margin: 10px 0px; }
+
+/* Title */
+.title { font-size: 18px; font-weight: 500; }
+
+#share-bar h4 { margin-bottom: 10px; font-weight: 500; }
+
+/* All buttons */
+/* Each button */
+.share-button { margin: 0px; margin-bottom: 10px; margin-right: 3px; border: 1px solid #D3D6D2; padding: 5px 10px 5px 10px; }
+
+.share-button:hover { opacity: 1; color: #ffffff; }
+
+/* Facebook button */
+.fa-facebook-official { color: #3b5998; }
+
+.fa-facebook-official:hover { background-color: #3b5998; }
+
+/* Twitter button */
+.fa-twitter { color: #55acee; }
+
+.fa-twitter:hover { background-color: #55acee; }
+
+/* Google-PLus button */
+.fa-google-plus { color: #dd4b39; }
+
+.fa-google-plus:hover { background-color: #dd4b39; }
+
+/* Pinterest button */
+.fa-pinterest-p { color: #cb2027; }
+
+.fa-pinterest-p:hover { background-color: #cb2027; }
+
+/* Tumblr button */
+.fa-tumblr { color: #32506d; }
+
+.fa-tumblr:hover { background-color: #32506d; }
+
+/* Reddit button */
+.fa-reddit-alien { color: #ff4500; }
+
+.fa-reddit-alien:hover { background-color: #ff4500; }
+
+/* LinkedIn button */
+.fa-linkedin { color: #007bb5; }
+
+.fa-linkedin:hover { background-color: #007bb5; }
+
+/* Email button */
+.fa-envelope { color: #444444; }
+
+.fa-envelope:hover { background-color: #444444; }
