@@ -241,6 +241,10 @@
 <lastmod>2026-03-08T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>/robotics/2026/03/28/OMPL/</loc>
+<lastmod>2026-03-28T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>/404/</loc>
 </url>
 <url>
@@ -257,6 +261,9 @@
 </url>
 <url>
 <loc>/blog/categories/Reading</loc>
+</url>
+<url>
+<loc>/blog/categories/Robotics</loc>
 </url>
 <url>
 <loc>/blog/categories/Toastmasters</loc>
@@ -425,6 +432,9 @@
 </url>
 <url>
 <loc>/blog/page/15/</loc>
+</url>
+<url>
+<loc>/blog/page/16/</loc>
 </url>
 <url>
 <loc>/assets/bower_components/bootstrap/js/tests/</loc>
